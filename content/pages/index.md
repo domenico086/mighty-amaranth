@@ -8,7 +8,7 @@ sections:
     content: |
       pscologa- pscoterpeuta
     actions:
-      - label: Get Started
+      - label: chi sono
         url: /docs
         style: primary
   - section_id: features
